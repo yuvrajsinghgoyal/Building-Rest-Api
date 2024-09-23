@@ -1,0 +1,10 @@
+#jo kaam hame humare server se karwana hai wo sab yaha likh rahe hai 
+Rest API
+GET /users-list all users
+GET /api/user/1-get the user with id 1
+GET /api/user/2-get the user with id 2
+
+POST   /api/user-create new user
+PATCH  /api/user/1 -Edit the user with id 1
+DELETE /api/user/1-delete the user with id 1
+
